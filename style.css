@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Arial);
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+  background-color: #fcfbfb;
+}
+h2 {
+  margin: 0;
+}
+header {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+nav a {
+  text-decoration: none;
+  padding: 35px;
+
+  background-color: black;
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+}
+.home-title {
+  font-family: "Rock Salt", "Bradley Hand", sans-serif;
+  font-size: 2em;
+  color: blue;
+}
+nav a:hover {
+  background-color: black;
+  color: white;
+}
+#hero-msg h1 {
+  text-align: center;
+}
+#hero-msg h4 {
+  text-align: center;
+  color: red;
+}
+.button-box {
+  text-align: center;
+}
+main selection {
+  text-align: center;
+}
+.book {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+}
+.join {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.card-img {
+  border: 10px solid #d9c2a3;
+}
+main section img {
+  box-sizing: border-box;
+}
+.join:hover {
+  background-color: green;
+  color: orange;
+}
+#background {
+  background-color: orange;
+  color: purple;
+}
+.msg {
+  background-color: #6f7364;
+  line-height: 1.5em;
+  background-color: Grey;
+  color: tan;
+}
+footer {
+  background-color: grey;
+  color: tan;
+}
+footer a :hover {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: underline;
+}
+footer h3 a:hover {
+  text-decoration: underline;
+}
+.logo {
+  width: 80px;
+}
+#background {
+  height: 725px;
+}
