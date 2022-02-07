@@ -15,8 +15,8 @@ header {
 }
 nav a {
   text-decoration: none;
-  padding: 35px;
-
+  padding: 25px;
+   margin-top: 25px;
   background-color: black;
   text-align: center;
   color: #fcfbfb;
